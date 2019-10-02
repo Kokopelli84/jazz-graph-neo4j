@@ -13,11 +13,11 @@ RETURN p
 
 ##### Node attributes include:
 
-name: string,
-deceased: boolean,
-gender: boolean <--- 1 for male, 0 for female,
-country: string
-genre: string <--- will always equal to "jazz" in this case
+name: string,  
+deceased: boolean,  
+gender: boolean,    <--- 1 for male, 0 for female  
+country: string,  
+genre: string       <--- will always equal to "jazz" in this case  
 
 Nodes: 4091
 Edges: 76644
