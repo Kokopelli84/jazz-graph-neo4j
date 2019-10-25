@@ -19,8 +19,8 @@ gender: boolean,    <--- 1 for male, 0 for female
 country: string,  
 genre: string       <--- will always equal to "jazz" in this case  
 
-Nodes: 4091
-Edges: 76644
+Nodes: 12720
+Edges: 139187
 
 Feel free to get in touch with me at nfleig@hotmail.com if you would like me to add any additional attributes or if you have any ideas about how to make this graph even better. Also please be so kind to credit me if you use this graph in any way. And of course share your findings with me! :-) 
 
